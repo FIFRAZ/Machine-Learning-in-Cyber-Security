@@ -1,8 +1,7 @@
 The dataset is a Login Data Set of SSO solution of an online service in Norway. The dataset can be used for developing code for Risk-Based Authentication, 
 and identifying threats by analysing login patterns of users, using Machine Learning.
 
-The RBA implementation, requires a lot of computation, and access to validation scores of features(For example, what is the probability of an IP address to be 
-an attack IP, or a OS family plus version to be an attack login attempt. One could calculate these organization wide, or use third party APIs), and is challenging to run on a personal laptop. The calculation of risk score, will involve, calculating validation score of each feature, and calculation the final probability of a login attempt being a threat, using all these validation scores, and the login history of each user to figure out probability of the login attempt for this particular user to be a threat given that the feature has a specific value(as in the login attempt).
+The RBA implementation code, involves tremendous amount of computation, and access to validation scores of features(For example, what is the probability of an IP address to be an attack IP, or a OS family plus version to be an attack login attempt. One could calculate these organization wide, or use third party APIs), and is not feasible to run on a personal laptop. The calculation of risk score, will involve, calculating validation score of each feature, and calculating the final probability of a login attempt being a threat, using all these validation scores, and the login history of each user to figure out probability of the login attempt for this particular user to be a threat given that the feature has a specific value(as in the login attempt).
 
 This implementation only covers the threat detection portion, not the calculation of Risk scores.
 
