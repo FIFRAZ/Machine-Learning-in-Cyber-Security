@@ -3,7 +3,7 @@ and identifying threats by analysing login patterns of users, using Machine Lear
 
 The RBA implementation code, involves tremendous amount of computation, and access to validation scores of features(For example, what is the probability of an IP address to be an attack IP, or a OS family plus version to be an attack login attempt. One could calculate these organization wide, or use third party APIs), and is not feasible to run on a personal laptop. The calculation of risk score, will involve, calculating validation score of each feature, and calculating the final probability of a login attempt being a threat, using all these validation scores, and the login history of each user to figure out probability of the login attempt for this particular user to be a threat given that the feature has a specific value(as in the login attempt).
 
-This implementation only covers the threat detection portion, not the calculation of Risk scores.
+This implementation only covers the threat detection portion, not the calculation of Risk scores. Again, the threat detection portion could be implemented user specific. The current code covers detecting threats at a general level using login attempt data of all users, not for a specific user.
 
 The dataset has been downloaded from Kaggle(https://www.kaggle.com/datasets/dasgroup/rba-dataset). It is a Synthesized login feature data of 33M login attempts and 3.3M users on a large-scale online service in Norway. 
 Original data collected between February 2020 and February 2021. The users used this SSO to access sensitive data provided by the onlineservice, e.g., 
