@@ -1,0 +1,11 @@
+User,Project,JobTitle,Department,location,ITSPlanningCommittee
+Sam,Jefferies,RiskManagement,Sales,Cincinnati,1
+Rahul,Jefferies,RiskManagement,IT,LA,1
+Larry,PFG,ClaimsAssociate,HR,Austin,0
+Henry,PFG,ClaimsAdjuster,HR,LA,0
+Leena,Jefferies,PrivateInvestigator,HR,Cincinnati,1
+Mary,Assurant,ClaimsAssociate,Sales,LA,0
+Lynda,PFG,InsuranceAgent,IT,Cincinnati,0
+Tom,Assurant,LossControl,IT,Austin,0
+Don,Jefferies,ClaimsExaminer,IT,Cincinnati,0
+Bob,Assurant,ClaimsAssociate,Sales,Austin,0
