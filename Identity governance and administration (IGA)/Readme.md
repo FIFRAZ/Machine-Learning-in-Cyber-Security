@@ -3,9 +3,9 @@
 - the key features a modern day <b>IGA(Identity Administration and Governance)</b> must include, and 
 - the use cases where intelligence and automation can be incorporated using <b>Machine Learning</b>. 
 
-Before you look at the notes, here is a brief overview of what an IGA solution is.
+<h3> Here is a brief overview of what an IGA solution is: </h3>
 
-<h3>The primary goals of Identity administration and Governance are:</h3>
+<h5>The primary goals of Identity administration and Governance are:</h5>
 
 - <b>Identity Lifecycle Management:</b> This involves managing the entire lifecycle of digital identities, including creating, provisioning, modifying, and deactivating user accounts. It ensures that identities are created and managed in a consistent and secure manner. Includes appropriate workflows for Joiner, mover, leaver stages of identity lifecycle.
 
