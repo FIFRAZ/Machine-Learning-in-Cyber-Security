@@ -1,4 +1,7 @@
-My whiteboard notes cover the key features a modern day <b>IGA(Identity Administration and Governance)</b> must include, and the use cases where intelligence and automation can be incorporated using <b>Machine Learning</b>. 
+<h3>My whiteboard notes cover:</h3>
+
+- the key features a modern day <b>IGA(Identity Administration and Governance)</b> must include, and 
+- the use cases where intelligence and automation can be incorporated using <b>Machine Learning</b>. 
 
 Before you look at the notes, here is a brief overview of what an IGA solution is.
 
