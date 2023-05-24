@@ -19,7 +19,7 @@ Implementing an effective identity administration and governance program helps o
 
 <h3>Key drivers for the evolution of IGA solutions in the recent years:</h3>
 
-- With the increasing <b> adoption of cloud services </b> and the implementation of <b>DevOps practices</b>, identity governance and administration (IGA) products have adapted to meet the evolving needs of organizations. Today, IGA solutions offer additional features and capabilities to address the complexities of managing identities in modern IT landscapes, that covers providing centralized identity administration across both on-premises and <b>multi cloud environments</b>, ensuring consistent access controls and policy enforcement.
+- With the increasing <b> adoption of cloud services </b> and the implementation of <b>DevOps practices</b>, IGA products have adapted to meet the evolving needs of organizations. Today, IGA solutions offer additional features and capabilities to address the complexities of managing identities in modern IT landscapes, that covers providing centralized identity administration across both on-premises and <b>multi cloud environments</b>, ensuring consistent access controls and policy enforcement.
 
 - IGA has expanded its capabilities to support <b>privileged access management (PAM)</b>. Privileged accounts, such as administrative and system accounts, pose significant security risks if not properly managed. IGA products now provide features to manage and monitor privileged access, including just-in-time access, session recording, and privileged user analytics. These enhancements strengthen security controls and help organizations prevent unauthorized access and potential data breaches. 
 
